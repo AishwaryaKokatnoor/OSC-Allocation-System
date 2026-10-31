@@ -1,0 +1,6 @@
+{
+  "name": "SakhiLink - One Stop Centre Support",
+  "description": "Confidential, accessible support connecting victims and individuals in distress to One Stop Centres (OSCs) across India for safe shelter, legal, medical, counselling, and emergency assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
